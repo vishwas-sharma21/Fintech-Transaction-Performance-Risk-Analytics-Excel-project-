@@ -177,35 +177,5 @@ Example:
 
 <hr>
 
-<h2>📌 Resume-Ready Points</h2>
-<ul>
-  <li>Designed a KPI-driven Excel dashboard analyzing fintech transaction performance</li>
-  <li>Built business metrics including Net Contribution and Leakage Cost</li>
-  <li>Performed trend forecasting using FORECAST.LINEAR</li>
-  <li>Identified profitability risks and failure patterns across payment methods</li>
-</ul>
-
-<hr>
-
-<h2>🎯 Interview Questions</h2>
-<ul>
-  <li>Why did you define Net Contribution this way?</li>
-  <li>How does cashback affect profitability?</li>
-  <li>Why did you use FORECAST.LINEAR?</li>
-  <li>What business decisions can be made from this dashboard?</li>
-  <li>How would you scale this project using SQL or Power BI?</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Future Improvements</h2>
-<ul>
-  <li>Convert dashboard to Power BI</li>
-  <li>Use SQL for large-scale data analysis</li>
-  <li>Add fraud detection model</li>
-  <li>Automate data refresh using Power Query</li>
-</ul>
-
-<hr>
 
 <p align="center">⭐ If you found this project useful, consider starring the repo!</p>
