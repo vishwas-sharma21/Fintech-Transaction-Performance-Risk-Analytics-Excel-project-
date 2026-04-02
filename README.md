@@ -142,14 +142,15 @@ Increasing transactions may lead to higher <b>financial leakage</b> unless the c
 
 <hr>
 
-<h2>📸 Dashboard Preview</h2>
-<p><i>(Add your screenshot inside /screenshots folder and link it here)</i></p>
+<h2 align="center">📊 Dashboard Preview</h2>
 
-<pre>
-Example:
-&lt;img src="screenshots/dashboard.png" width="800"&gt;
-</pre>
+<p align="center">
+  <img src="Dashboard Image/Excel Dashboard.png" width="900">
+</p>
 
+<p align="center">
+  📥 <a href="Dashboard/Fintech Transaction Performance and Risk Analytics.xlsx"><b>Download Interactive Dashboard</b></a>
+</p>
 <hr>
 
 <h2>📁 Project Structure</h2>
