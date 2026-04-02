@@ -1,5 +1,5 @@
 <h1 align="center">📊 Fintech Transaction Performance & Risk Analytics</h1>
-<h3 align="center">Excel Dashboard | KPI Design | Business Analytics</h3>
+<h3 align="center">Excel Dashboard | Business Analytics</h3>
 
 <p align="center">
   <b>Analyzing transaction performance, failure trends, and financial leakage using Excel</b>
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2>📌 Project Overview</h2>
+<h2> Project Overview</h2>
 <p>
 This project analyzes <b>online transaction data for 2023 and 2024</b> to evaluate business performance,
 identify risk areas, and measure financial leakage caused by cashback incentives.
@@ -20,7 +20,7 @@ trend forecasting, and actionable business insights.
 
 <hr>
 
-<h2>🎯 Business Problem</h2>
+<h2> Business Problem</h2>
 <p>
 Fintech platforms often struggle with:
 </p>
@@ -111,7 +111,7 @@ Loss Per Transaction = Net Contribution / Total Transactions
   <li>💳 Credit cards show the <b>highest failure rate</b></li>
 </ul>
 
-<h3>🚨 Business Implication</h3>
+<h3> Business Implication</h3>
 <p>
 <b>Growth is not translating into profitability.</b><br>
 Increasing transactions may lead to higher <b>financial leakage</b> unless the cashback strategy is optimized.
@@ -119,7 +119,7 @@ Increasing transactions may lead to higher <b>financial leakage</b> unless the c
 
 <hr>
 
-<h2>🧠 Analytical Approach</h2>
+<h2> Analytical Approach</h2>
 <ul>
   <li>Data cleaning and validation</li>
   <li>KPI engineering with business logic</li>
