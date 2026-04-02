@@ -1,1 +1,1 @@
-# Fintech-Transaction-Performance-Risk-Analytics-Excel-project-
+# Fintech Transaction Performance Risk Analytics (Excel project)
